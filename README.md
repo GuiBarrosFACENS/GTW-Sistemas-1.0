@@ -36,5 +36,9 @@ atendemos da mesma forma, com cadastro de produtos, clientes, trocas de emitente
 
 ![](https://github.com/GuiBarrosFACENS/GTWFinal/blob/main/UI/Imprimir.PNG)
 
+### - Diagrama DER de acordo com o banco do nosso sistema.
+
+![](https://github.com/GuiBarrosFACENS/GTWFinal/blob/main/UI2/diagrama.PNG)
+
 
  
